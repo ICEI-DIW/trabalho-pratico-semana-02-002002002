@@ -3,7 +3,9 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: kaua rodrigues da silva
+- Matricula:896250
 
 ## Print da tela da página criad
+![alt text](<public/print da tela .png>)
+![alt text](<public/print do curriculo 2.png>)
